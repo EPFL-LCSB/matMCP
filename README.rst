@@ -10,3 +10,8 @@ Requirements
 This module requires a working matTFA installation:
 https://github.com/EPFL-LCSB/mattfa
 
+Example
+------------
+
+An example how to extract the conservation relations for kinetic models is found in the script "run_example.m"
+
